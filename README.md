@@ -18,6 +18,8 @@ create new instruments and sound visual effects
 (add visual 3d objects that make certain sounds) 
 to be able to visualize the music 
 
+play 3d instruments, real, electronic and custom instruments
+
 can use any DAW you connect to in the app
 
 invite others to watch you jam, play, practice and create 
