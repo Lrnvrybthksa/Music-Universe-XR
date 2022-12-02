@@ -26,6 +26,12 @@ invite others to watch you jam, play, practice and create
 
 private/public spaces 
 
-free app, free-to-play
+free app, free-to-play, open code 
 
 access through website or on VR app stores
+
+also spaces to hangout alone/with others and listen to music 
+with other music apps integrated like spotify, YT music, amazon music etc...
+
+buy and tip artists/musicians, buy their VR merchandise etc... 
+
