@@ -25,3 +25,7 @@ can use any DAW you connect to in the app
 invite others to watch you jam, play, practice and create 
 
 private/public spaces 
+
+free app, free-to-play
+
+access through website or on VR app stores
