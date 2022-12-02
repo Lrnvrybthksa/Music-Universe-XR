@@ -35,3 +35,16 @@ with other music apps integrated like spotify, YT music, amazon music etc...
 
 buy and tip artists/musicians, buy their VR merchandise etc... 
 
+also watch live IRL concerts, any venue can host their live concerts 
+instead of them managing their own software, they just need the cameras
+they can add and customize in app cameras, views, UI etc..
+
+templates for different event hosting, for a more real 3d experience 
+similar to the holographic repo but in VR 
+ex. make a stage almost lifelike in VR from the use of 
+various cameras in different locations in the event, instead of using 
+one main camera, maybe even with a drone camera option too 
+
+
+
+
